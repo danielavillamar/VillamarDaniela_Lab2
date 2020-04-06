@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="title_text">" BMI Calculator"</string>
+    <string name="estatura_text">Height (cm)</string>
+    <string name="peso_text">Weight (lb)</string>
+    <string name="welcome_text">Hi there, please enter your information.</string>
+    <string name="start_pic">Start</string>
+    <string name="results_but">Calculate BMI</string>
+    <string name="BMIres" />
+    <string name="BMImess" />
+</resources>
